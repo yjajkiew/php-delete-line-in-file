@@ -13,9 +13,7 @@ function deleteLineInFile($file,$string)
 			else $array[$i] .= ';' . $d;
 			++$j;
 		}
-		$j=0;
-		//$array[$i] = $data[0] . ';' . $data[1];
-		++$i;
+		$j=0;++$i;
 	}
 	fclose($read);
 	
