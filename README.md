@@ -20,7 +20,7 @@ This way the file is backed up so it can be opened for writing, erasing all the 
 Why I did it
 ------------
 
-I add a CSV file who looked like this:
+I had a CSV file who looked like this:
 > text1;text2
 >
 > text3;text4
