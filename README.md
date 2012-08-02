@@ -34,7 +34,7 @@ I did my function so it can work with my specific file, and then I changed it to
 License
 -------
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 1, December 2012
+                   Version 1, August 2012
 
               Yann Jajkiewicz <contact@yann.me>
 
