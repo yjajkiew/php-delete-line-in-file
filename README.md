@@ -34,13 +34,12 @@ I did my function so it can work with my specific file, and then I changed it to
 License
 -------
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
+                   Version 1, December 2012
 
-      Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+              Yann Jajkiewicz <contact@yann.me>
 
     Everyone is permitted to copy and distribute verbatim or modified
-    copies of this license document, and changing it is allowed as long
-    as the name is changed.
+    copies of this program.
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
      TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
